@@ -154,18 +154,22 @@ img {
 
     .steps .col {
         width: 100%;
+        margin-bottom: 50px;
     }
 
     .why-us .col-left {
         width: 100%;
+        margin-bottom: 50px;
     }
 
     .why-us .col-right {
         width: 100%;
+        margin-bottom: 50px;
     }
 
     .lessons .col {
         width: 100%;
+        margin-bottom: 50px;
     }
 
     .steps {
